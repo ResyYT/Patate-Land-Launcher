@@ -1,7 +1,7 @@
 {
     "name": "Patate-Land",
     "preductname": "Patate-Land",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Launcher Minecraft pour le serveur Patate Land",
     "main": "src/app.js",
     "author": {
